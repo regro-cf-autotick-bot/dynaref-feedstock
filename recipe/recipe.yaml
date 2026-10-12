@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: 6.10.0
+  version: "6.11.0"
 
 package:
   name: dynaref
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/D/DynaRef/dynaref-${{ version }}.tar.gz
-  sha256: e4257edabe5a9ef4bdd5d8cb6aa2b325c537e51b5608097464d0eb75c0fb1d44
+  sha256: 62e25128235b5cc84719cfa128bc0752006df4a0204630ae1ec06c656d9c14f4
 
 build:
   number: 0
